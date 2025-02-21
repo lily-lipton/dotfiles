@@ -1,12 +1,12 @@
 [user]
-	name = Kairi Osawa
-	email = kairi.c9a8fa@gmail.com
+    name = Kairi Osawa
+    email = kairi.c9a8fa@gmail.com
 
 [alias]
-	st = status
-	br = branch
-	co = checkout
-	sw = switch
+    st = status
+    br = branch
+    co = checkout
+    sw = switch
 
 [core]
-	quotepath = false
+    quotepath = false
